@@ -24,3 +24,13 @@ Teacher
 Student
 
 Parent
+## Requirements
+
+Check Laravel 8 Requirements https://laravel.com/docs/8.x
+
+Check php version Requirements php 7.4 (use command php -version)
+
+Composer
+
+Git
+
