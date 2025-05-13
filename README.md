@@ -52,3 +52,59 @@ Database seed (php artisan db:seed)
 |  Parent | parent | parent@parent.com | adminadmin |
 |  Accountant | accountant | accountant@accountant.com | adminadmin |
 |  Student | student | student@student.com | adminadmin |
+#### **FUNCTIONS OF ACCOUNTS** 
+
+**-- SUPER ADMIN**
+- Only Super Admin can delete any record
+- Create any user account and students
+- Reset Users passwords
+
+**-- Administrators (Super Admin & Admin)**
+
+- Manage students class/sections
+- View marksheet of students
+- Create, Edit and manage all user accounts & profiles
+- Create, Edit and manage Exams & Grades
+- Create, Edit and manage Subjects
+- Manage noticeboard of school
+- Notices are visible in calendar in dashboard
+- Edit system settings
+- Manage Payments & fees
+- make exam questions
+- view the best students
+- show teacher Evaluation
+-Delete Exams
+
+**-- ACCOUNTANT**
+- Manage Payments & fees
+- Print Payment Receipts
+
+
+**-- TEACHER**
+- Manage Own Class/Section
+- Manage Exam Records for own Subjects
+- Manage Timetable if Assigned as Class Teacher
+- Manage own profile
+- Upload Study Materials
+- Create new Exam questions
+- add marks for student
+- Browse Student profile
+- add student evaluations
+
+**-- STUDENT**
+- View teacher profile
+- View own class subjects
+- View own marks and class timetable
+- View Payments
+- View library and book status
+- View noticeboard and school events in calendar
+- Manage own profile
+- Evaluate teacher
+
+**-- PARENT**
+- View teacher profile
+- View own child's marksheet (Download/Print PDF)
+- View own child's Timetable
+- View own child's payments
+- View noticeboard and school events in calendar
+- Manage own profile
