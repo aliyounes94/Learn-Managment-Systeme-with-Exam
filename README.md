@@ -12,3 +12,15 @@ LAVSMS is developed for Learning institutions like schools, and colleges built o
 -Print Marksheet
 
 -Print Tabulation Sheet & Marksheet tabulation-sheet
+
+## Types of user accounts:
+
+Administrators (Super Admin & Admin)
+
+Accountant
+
+Teacher
+
+Student
+
+Parent
