@@ -34,3 +34,21 @@ Composer
 
 Git
 
+## Installation
+
+Install dependencies (composer install)
+
+Set Database Credentials & App Settings in dotenv file (.env)
+
+Migrate Database (php artisan migrate)
+
+Database seed (php artisan db:seed)
+### Login Credentials After seeding. Login details as follows:
+| Account Type  | Username | Email | Password |
+| ------------- | -------- | ----- | -------- |
+| Super Admin | LMS | superadmin@gmail.com | adminadmin |
+|  Admin | admin | admin@admin.com | admin |
+|  Teacher | teacher | teacher@teacher.com | admin |
+|  Parent | parent | parent@parent.com | admin |
+|  Accountant | accountant | accountant@accountant.com | admin |
+|  Student | student | student@student.com | admin |
