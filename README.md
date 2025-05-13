@@ -54,12 +54,12 @@ Database seed (php artisan db:seed)
 |  Student | student | student@student.com | adminadmin |
 #### **FUNCTIONS OF ACCOUNTS** 
 
-**-- SUPER ADMIN**
+** SUPER ADMIN**
 - Only Super Admin can delete any record
 - Create any user account and students
 - Reset Users passwords
 
-**-- Administrators (Super Admin & Admin)**
+** Administrators (Super Admin & Admin)**
 
 - Manage students class/sections
 - View marksheet of students
@@ -75,12 +75,12 @@ Database seed (php artisan db:seed)
 - show teacher Evaluation
 -Delete Exams
 
-**-- ACCOUNTANT**
+** ACCOUNTANT**
 - Manage Payments & fees
 - Print Payment Receipts
 
 
-**-- TEACHER**
+** TEACHER**
 - Manage Own Class/Section
 - Manage Exam Records for own Subjects
 - Manage Timetable if Assigned as Class Teacher
@@ -91,7 +91,7 @@ Database seed (php artisan db:seed)
 - Browse Student profile
 - add student evaluations
 
-**-- STUDENT**
+** STUDENT**
 - View teacher profile
 - View own class subjects
 - View own marks and class timetable
@@ -101,7 +101,7 @@ Database seed (php artisan db:seed)
 - Manage own profile
 - Evaluate teacher
 
-**-- PARENT**
+** PARENT**
 - View teacher profile
 - View own child's marksheet (Download/Print PDF)
 - View own child's Timetable
