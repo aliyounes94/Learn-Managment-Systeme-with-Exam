@@ -47,8 +47,8 @@ Database seed (php artisan db:seed)
 | Account Type  | Username | Email | Password |
 | ------------- | -------- | ----- | -------- |
 | Super Admin | LMS | superadmin@gmail.com | adminadmin |
-|  Admin | admin | admin@admin.com | admin |
-|  Teacher | teacher | teacher@teacher.com | admin |
-|  Parent | parent | parent@parent.com | admin |
-|  Accountant | accountant | accountant@accountant.com | admin |
-|  Student | student | student@student.com | admin |
+|  Admin | admin | admin@admin.com | adminadmin |
+|  Teacher | teacher | teacher@teacher.com | adminadmin |
+|  Parent | parent | parent@parent.com | adminadmin |
+|  Accountant | accountant | accountant@accountant.com | adminadmin |
+|  Student | student | student@student.com | adminadmin |
